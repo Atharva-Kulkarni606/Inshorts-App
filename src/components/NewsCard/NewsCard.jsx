@@ -24,7 +24,7 @@ const NewsCard = ({newsItem}) => {
                     </span>
                     <span className="author">
                         <a href= {newsItem.url} target = "__blank">
-                            <b>short</b>
+                            <b style = {{color : "black"}}>{newsItem.author}</b>
                         </a>{" "}
                         <span className = "muted">{" "}
                             by {newsItem.author ? newsItem.author : "unknown"} / {"  "}
@@ -32,7 +32,7 @@ const NewsCard = ({newsItem}) => {
                                 time ? `${hour - 12} : ${date[4].substring(3,5)} pm`:
                                 `${hour} : ${date[4].substring(3,5)} am` 
                             }
-                                 on {date[2]} {date[1]} {date[3]}, {date[0]}
+                              {" "}   on {" "} {date[2]} {date[1]} {date[3]}, {date[0]}
                             
                         </span>
                     </span>
