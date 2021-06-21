@@ -27,8 +27,14 @@ THIS IS A WEB APPLICATION THAT USES NEWS API TO FETCH TOP HEADLINES OF THE LATES
 https://user-images.githubusercontent.com/65156793/122733120-bd887800-d231-11eb-94b6-de77ac4a0767.mp4
 
 # SCREENSHOTS
+
+
 ![React App - Google Chrome 21-06-2021 14_11_35 (1)](https://user-images.githubusercontent.com/65156793/122733844-6c2cb880-d232-11eb-9e69-acc18bbf9e27.png)
+
+
 ![React App - Google Chrome 21-06-2021 14_11_57](https://user-images.githubusercontent.com/65156793/122733865-718a0300-d232-11eb-8c5f-c72952b1f252.png)
+
+
 ![React App - Google Chrome 21-06-2021 14_12_10](https://user-images.githubusercontent.com/65156793/122733877-7353c680-d232-11eb-8caf-8cf97ff1a9ef.png)
 
 
